@@ -8,26 +8,31 @@
   <div align="left">
 <h2 ><b>Demo Link</h2></b>
 <hr>
-https://harshi0102.github.io/Portfolio-Microverse-project/
-
+https://harshi0102.github.io/LivePortfolio/
 </div>
 
 
 <br><br>
 # 📗 Table of Contents
 
-- [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
-    - [Key Features](#key-features)
-  - [🚀 Live Demo](#live-demo)
-- [💻 Getting Started](#getting-started)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [📝 License](#license)
+- [📗 Table of Contents](#-table-of-contents)
+- [📖 \[Portfolio Project\] About](#-portfolio-project-about)
+  - [🛠 Built With Visual Studio Code](#-built-with-visual-studio-code)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [🚀 Live Demo](#-live-demo)
+  - [💻 Getting Started ](#-getting-started-)
+    - [Prerequisites](#prerequisites)
+    - [Setup](#setup)
+    - [Usage](#usage)
+    - [Run tests](#run-tests)
+    - [Deployment](#deployment)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [📝 License ](#-license-)
 
 # 📖 [Portfolio Project] <a name="about-project">About</a>
 
@@ -62,7 +67,7 @@ The core concepts of HTML, CSS and github were implemented.Using HTML, I was abl
 
 ## 🚀 Live Demo
 
-- [Live Demo Link](https://harshi0102.github.io/Portfolio-Microverse-project/)
+- [Live Demo Link](https://harshi0102.github.io/LivePortfolio/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -85,8 +90,7 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder using the below command:
-https://github.com/harshi0102/Portfolio-Microverse-project.git
-
+https://github.com/harshi0102/LivePortfolio
 ### Usage
 
 To run the project, execute the following file:
@@ -117,12 +121,6 @@ VS Code
 - GitHub: [@harshi0102](https://github.com/harshi0102/)
 - Twitter: [@harshika0102me](https://twitter.com/harshika0102me)
 - LinkedIn: [harshikagovind](https://www.linkedin.com/in/harshikagovind)
-
-👤 Faisal
-
-- GitHub: [@githubhandle](https://github.com/faisalakb)
-- Twitter: [@twitterhandle](https://twitter.com/Faisalakb786)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/faisal-mumtaz-514a221a6/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -159,6 +157,6 @@ I would like to thank microverse team, github team and my coding partners who co
 ## 📝 License <a name="license"></a>
 
 This project is copyright of [HarshikaGovind]
-<a href="https://github.com/harshi0102/Portfolio-Microverse-project/blob/main/LICENSE">MIT License</a>
+<a href="https://github.com/harshi0102/LivePortfolio/blob/main/LICENSE">MIT License</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
